@@ -3,7 +3,10 @@
 **Bus factor** is a measurement which attempts to estimate the number of key persons a project would need to lose in order for it to become stalled due to lack of expertise. It is commonly used in the context of software development.
 
 **Input**: programming language name, number of projects to consider
+
 **Output**: list of tuples containing the project's name, top contributor's name and their contribution percentage
+
+**Export environment variable `GITHUB_TOKEN` before the first run!**
 
 Example:
 
